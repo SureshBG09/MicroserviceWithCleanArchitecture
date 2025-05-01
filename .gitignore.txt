@@ -1,0 +1,49 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Secrets
+secrets.json
+
+# Dotnet watch & coverage
+coverage/
+*.coverage
+*.coveragexml
+*.log
+*.log.*
+
+# Local DBs
+*.mdf
+*.ldf
+
+# Azure settings
+*.Publish.xml
+appsettings.*.json
+
+# Environment settings
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Others
+.DS_Store
+Thumbs.db
